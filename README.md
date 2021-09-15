@@ -20,7 +20,7 @@
 - :rocket: Skills: <strong>HTML5 | CSS3  | JavaScript  | ReactJS | Node.js | NPM / Yarn | MySQL |
 MongoDB.</strong>
 - :mortar_board: Studying: <strong>Next.js | TypeScript/Javascript | React Native</strong>.
-- 🔭  I am currently looking for a job as Frontend Developer.
+- 🔭  I am currently working.
 
 <br>
 

@@ -1,4 +1,4 @@
-Hi 👋 My name is Felipe =======================  Back-end web developer ----------------------  Conhecimento de nível Técnico em Desenvolvimento de sistemas, estudante de Redes de Computadores organizado, proativo. Focado e apaixonado por projetos  * 🌍  I'm based in Brasil * 🖥️  See my portfolio at [felipegfsouzaportifolio](http://teste) * 🚀  I'm currently working on [3stamina](http://3stamina.com) * 🧠  I'm learning AngularJS * 🤝  I'm open to collaborating on MEAN stack projects * ⚡  I love Genshin Impact game
+Hi 👋 My name is Felipe =======================  Back-end web developer ----------------------  Conhecimento de nível Técnico em Desenvolvimento de sistemas, estudante de Redes de Computadores organizado, proativo. Focado e apaixonado por projetos  * 🌍  I'm based in Brasil * 🖥️  See my portfolio at [felipegfsouzaportifolio](http://teste) * 🚀  I'm currently working on [3stamina](http://3stamina.com) * 🧠  I'm learning AngularJS * 🤝  I'm open to collaborating on MEAN stack projects * ⚡  I love Genshin Impact game
 
 ### Skills
 

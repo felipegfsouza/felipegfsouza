@@ -36,3 +36,5 @@ _ ⚡ I love Genshin Impact game <br>
 <a href="http://www.github.com/felipegfsouza"><img src="https://github-readme-stats.vercel.app/api?username=felipegfsouza&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="felipegfsouza's GitHub stats" /></a>
 
 <a href="https://github.com/felipegfsouza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegfsouza&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/felipegfsouza/rocketflix-challenge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=felipegfsouza&repo=rocketflix-challenge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

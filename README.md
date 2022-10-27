@@ -6,13 +6,13 @@ Back-end web developer
 ---------------------- 
 <img align="right"  width="300px" src="./bio-image.svg" /> <br>
 
-Conhecimento de nível Técnico em Desenvolvimento de sistemas, estudante de Redes de Computadores organizado, proativo. Focado e apaixonado por projetos 
+Eu sou o Felipe Souza e tenho conhecimento de nível Técnico em Desenvolvimento de sistemas, estudante de Redes de Computadores organizado, proativo. Focado e apaixonado por projetos 
 <br>
 
 
 _ 🌍 I'm based in Brasil <br>
 _ 🖥️ See my portfolio at [felipegfsouzaportifolio](http://teste) <br>
-_ 🚀 I'm currently working in [99 freelas](https://www.99freelas.com.br/dashboard)
+_ 🚀 I'm currently working in [99 freelas](https://www.99freelas.com.br/dashboard)<br>
 _ 🧠 I'm learning AngularJS <br>
 _ 🤝 I'm open to collaborating on MEAN stack projects <br>
 _ ⚡ I love Genshin Impact game <br>

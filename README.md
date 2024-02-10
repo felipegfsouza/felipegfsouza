@@ -13,7 +13,7 @@ Eu sou o Felipe Souza e tenho conhecimento de nível Técnico em Desenvolvimento
 _ 🌍 I'm based in Brasil <br>
 _ 🖥️ See my portfolio at [felipegfsouzaportifolio](http://teste) <br>
 _ 🚀 I'm currently working in [99 freelas](https://www.99freelas.com.br/dashboard)<br>
-_ 🧠 I'm learning AngularJS <br>
+_ 🧠 I'm learning Python <br>
 _ 🤝 I'm open to collaborating on MEAN stack projects <br>
 _ ⚡ I love Genshin Impact game <br>
 

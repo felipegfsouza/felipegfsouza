@@ -27,10 +27,6 @@ _ ⚡ I love Genshin Impact game <br>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
               alt="python" width="40" height="40" /> 
       </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" 
-              alt="django" width="40" height="40" /> 
-      </a>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a> 
